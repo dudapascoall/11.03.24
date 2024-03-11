@@ -11,3 +11,8 @@ button{
     border: none;
     border-radius: 10px;
 }
+
+input{
+    color: rgb(224, 56, 84);
+    border: none;
+}
